@@ -1,5 +1,4 @@
 <template>
-<p>gay</p>
     <section class="destination">
         <h1>Hello Destination</h1>
         <h1>{{destination.name}}</h1>
